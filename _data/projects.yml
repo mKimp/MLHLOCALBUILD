@@ -1,20 +1,14 @@
-- title: Social Good!
-  event: MLH Fellowship Explorer Sprint 5
-  date: Fall 2020 - Batch 1
+- title: US National Parks DashBoard
+  course: Front End Development 
+  date: Spring 2020
+  details: Built a dashboard by using React, JavaScript, HTML5, Bootstraps to display charts and information about all National Parks in the United States (focusing on the individual state).
 
-- title: Developer Tools!
-  event: MLH Fellowship Explorer Sprint 4
-  date: Fall 2020 - Batch 1
+- title: Happy Chat App
+  course: Artifical Intelligence 
+  date: Spring 2020
+  details: Developed the login feature, called SmileId, by using JavaScript and an open-source library, Opencv4nodejs, which allowed users to log into the chat room by their smiles.
 
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3
-  date: Fall 2020 - Batch 1
-
-- title: Fun Game
-  event: MLH Fellowship Explorer Sprint 2
-  date: Fall 2020 - Batch 1
-
-- title: Flash Card Generator
-  event: MLH Fellowship Explorer Sprint 1
-  date: Fall 2020 - Batch 1
-  page-name: sprint1
+- title: Find My Pet
+  course: Full Stack Web Development
+  date: Winter 2019
+  details: Built a web app using JavaScript, MongoDB, and Google Maps to help pet owners find their lost pets by showing owner contact information and other relevant logistics on a map.	
