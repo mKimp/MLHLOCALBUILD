@@ -6,7 +6,7 @@
 
 .card-container {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     font-family: "Open Sans", sans-serif;
 }
 
@@ -44,7 +44,7 @@ h2 {
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin: 20px 30px;
+    margin: 22px 35px;
     background-color: white;
     border-radius: .375rem;
     padding: 1.5em;
@@ -73,6 +73,11 @@ a {
     }
 
     .dates {
+        font-size: small;
+        color: #404040;
+    }
+    
+     .detail {
         font-size: small;
         color: #404040;
     }
